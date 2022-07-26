@@ -1,10 +1,13 @@
 import './App.css';
+import Quote from "./components/quote"
+
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <div className="alert alert-primary" role="alert">
-        A simple primary alert—check it out!
+        
+        <Quote />
       </div>
     </div>
   );
