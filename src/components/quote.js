@@ -40,7 +40,7 @@ function Quote() {
                   {quote}
                 </h1>
                 <button className="button" onClick={fetchAdvice}>
-                    <span>Give Me For Advice</span>
+                    <span>Give Me An Advice</span>
                 </button>
             </div>
         </div>
