@@ -3,6 +3,9 @@
 
 •	Java 
 (*)Java
+
+<p style='color:red'>This is some red text.</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
