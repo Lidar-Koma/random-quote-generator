@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 - [x] REACTJS
-•	Java 
 
+•	Java 
+(-) @blue Java
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
